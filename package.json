@@ -1,0 +1,22 @@
+{
+  "name": "operation-verification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsuzuki7713/node-operation-verification.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsuzuki7713/node-operation-verification/issues"
+  },
+  "homepage": "https://github.com/nsuzuki7713/node-operation-verification#readme",
+  "dependencies": {
+    "node-emoji": "^1.10.0"
+  }
+}
