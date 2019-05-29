@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/nsuzuki7713/node-operation-verification#readme",
   "dependencies": {
+    "@slack/web-api": "^5.0.1",
+    "dotenv": "^8.0.0",
     "node-emoji": "^1.10.0"
   }
 }
