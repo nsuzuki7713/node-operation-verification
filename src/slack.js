@@ -1,5 +1,6 @@
+require('dotenv').config()
 const { WebClient } = require('@slack/web-api');
-const token = '';
+const token = process.env.SLACK_TOKEN;
 const web = new WebClient(token);
 
 exports.postMessage = async () => {
